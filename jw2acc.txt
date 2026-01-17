@@ -47,17 +47,17 @@ dainv3575,mony33jww,ashiray98,iffyitiffy,louric1,tinmay77,critella77,jaxiconer77
 
 --------------------------------
 Motu888:
-mimibonus91     340
+mimibonus91     1
 --------------------------------
 DFW:
-copy13        315
-pgthx440      354
+copy13        355
+pgthx440      376
 --------------------------------
 FAT:
-snooky24      310
+snooky24      340
 --------------------------------
 Gerrad:
-dajade322     325
+dajade322     25
 --------------------------------
 Felix28:
 
@@ -94,4 +94,3 @@ MOTU888:
 Gerrad:
 786265
 836395
-
